@@ -1,33 +1,43 @@
-<!-- =========================
-        GitHub Profile README
-========================= -->
+<div align="center">
 
-<h1 align="center">
-Hi 👋, I'm Sumu
-</h1>
+# Hi 👋 I'm Sumaya Islam
 
-<h3 align="center">
-Frontend Developer • Learning Full Stack • Future AI Engineer 🚀
-</h3>
+### Software Engineer | Full Stack Developer | AI Enthusiast
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=React+Developer;Next.js+Developer;TypeScript+Enthusiast;Node.js+Learner;Future+AI+Engineer;Always+Learning+New+Things" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Frontend+Developer;Full+Stack+Developer;Learning+Artificial+Intelligence;Always+Learning+Something+New" />
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Next.js, TypeScript & Backend Development**
-- 💻 Passionate about building modern web applications
-- 🤖 Interested in Artificial Intelligence & Automation
-- 📚 Learning every day to become a better Software Engineer
-- 🎯 Goal: Build products used by millions of people
-- 🌍 Open to Remote Opportunities
+🎓 Bachelor's in Arts (Honours), Eden Mohila College
+
+💻 Passionate about building modern, responsive, and user-friendly web applications.
+
+🌱 Currently learning:
+
+- Artificial Intelligence (AI)
+- Large Language Models (LLMs)
+- AI-powered Web Applications
+- Advanced Next.js
+- Full Stack Development
+
+🎯 Career Goals
+
+- Become a Remote Software Engineer
+- Build AI-powered software products
+- Contribute to Open Source
+- Keep learning and growing every day
+
+🤖 I enjoy exploring new technologies and believe AI will transform the future of software development. I'm continuously improving my skills by building projects and learning modern development practices.
+
+💼 Open to remote opportunities and exciting collaborations.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 ### Frontend
 
@@ -38,7 +48,13 @@ Frontend Developer • Learning Full Stack • Future AI Engineer 🚀
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 </p>
 
 ### Tools
@@ -49,19 +65,19 @@ Frontend Developer • Learning Full Stack • Future AI Engineer 🚀
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -71,57 +87,73 @@ Frontend Developer • Learning Full Stack • Future AI Engineer 🚀
 
 ---
 
-## 🏆 GitHub Trophy
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 🏆 GitHub Trophies
 
-[![Sumu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+<p align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&margin-h=15&column=4"/>
 
-## 🌟 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 📰 News Portal | Modern News Website built with Next.js |
-| 🏠 Property Rental | Full Stack Property Rental Platform |
-| 💬 Chat Application | Real-time Chat App |
-| 📚 Learning Projects | React & Next.js Practice Projects |
+</p>
 
 ---
 
-## 📖 Currently Learning
+# 🌟 Featured Projects
 
-- Advanced Next.js
+> Coming Soon...
+
+I'm currently building exciting full-stack projects that will be showcased here.
+
+---
+
+# 📚 Currently Learning
+
+- Artificial Intelligence
+- LLM Applications
+- Next.js
 - TypeScript
+- Node.js
 - Express.js
 - PostgreSQL
-- Prisma ORM
+- MongoDB
+- REST APIs
 - Authentication
-- REST API
-- AI Development
+- Clean Architecture
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 2026 Goals
 
-- ✅ Master Next.js
-- ✅ Build 20+ Professional Projects
-- ✅ Learn AI Development
-- ✅ Get a Remote Developer Job
-- ✅ Contribute to Open Source
+- 🚀 Land a Remote Software Engineering role
+- 🤖 Build AI-powered applications
+- 🌍 Contribute to Open Source
+- 📖 Read more technical books
+- 💻 Build high-quality full-stack projects
+- 🌱 Learn something new every day
 
 ---
 
-## 🤝 Connect With Me
+# ☕ Beyond Coding
+
+- ✈️ Love Travelling
+- 📚 Book Lover
+- 💡 Love Learning New Technologies
+- 🌙 Enjoy Late-night Coding
+- 🧩 Passionate Problem Solver
+- 🍳 Love Cooking
+
+---
+
+# 🌐 Connect With Me
 
 <p>
 
@@ -141,24 +173,18 @@ Frontend Developer • Learning Full Stack • Future AI Engineer 🚀
 
 ---
 
-## 💡 Favorite Quote
+# 💭 Favorite Quote
 
-> *"The best way to predict the future is to build it."*
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
+> **"Success is built one commit, one bug fix, and one lesson at a time."**
 
 ---
 
-<h3 align="center">
-Thanks for visiting ❤️
-</h3>
+<div align="center">
 
-<h4 align="center">
-Happy Coding 🚀
-</h4>
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue)
+
+### Thanks for visiting my profile ❤️
+
+*"Code. Learn. Improve. Repeat."*
+
+</div>
