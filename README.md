@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/sumayaislamm">GitHub</a> ·
   <a href="https://www.linkedin.com/in/sumayaislamm/">LinkedIn</a> ·
-  <a href="mailto:sheikhsumaya622@gmail.com">Email</a>
+  <a href="mailto:sheikhsumaya622@gmail.com">sheikhsumaya622@gmail.com</a>
 </p>
 
 ---
