@@ -1,116 +1,73 @@
-# Hi 👋 I'm Sumaya Islam
+# Sumaya Islam
+
+<h3 align="center">FULL-STACK DEVELOPER · AI ENTHUSIAST</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;AI+Enthusiast;Always+Learning+New+Things" />
-</p>
-
-<p align="center">
-Software Engineer • Full Stack Developer • AI Enthusiast
-</p>
-
----
-
-# 🚀 About Me
-
-🎓 **Bachelor's in Arts (Honours)** — Eden Mohila College 
-
-💻 Passionate about building clean, modern and user-friendly web applications.
-
-🌱 Currently Learning
-- Artificial Intelligence (AI)
-- Large Language Models (LLMs)
-- AI-powered Web Applications
-- Advanced Next.js
-- Full Stack Development
-
-🎯 Career Goals
-- Become a Remote Software Engineer
-- Build AI-powered software products
-- Contribute to Open Source
-- Continue lifelong learning
-
-💼 Open to remote opportunities and exciting collaborations.
-
----
-
-# 🛠 Tech Stack
-
-## Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
-</p>
-
-## Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-## Database
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-</p>
-
-## Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sumayaislamm&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumayaislamm&layout=compact&theme=tokyonight&hide_border=true"/>
+  Building thoughtful digital experiences with modern web technologies.
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=sumayaislamm&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/sumayaislamm">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/sumayaislamm/">LinkedIn</a> ·
+  <a href="mailto:sheikhsumaya622@gmail.com">Email</a>
+</p>
+
+---
+
+### ABOUT
+
+I'm a developer passionate about building modern, scalable, and intuitive web applications.
+
+With a background in English Language, Literature & Linguistics and a growing foundation in software engineering, I bring a blend of analytical thinking, creativity, and attention to detail to every project.
+
+- Building full-stack web applications
+- Exploring AI, LLMs, and AI-powered products
+- Focused on clean code, thoughtful UI, and continuous growth
+- Open to remote opportunities and meaningful collaborations
+
+### TECH
+
+**Frontend**  
+React · Next.js · TypeScript · JavaScript · Tailwind CSS
+
+**Backend**  
+Node.js · Express.js · REST APIs · JWT
+
+**Database & ORM**  
+PostgreSQL · MongoDB · Prisma
+
+**Tools**  
+Git · GitHub · Postman · Figma
+
+### SELECTED WORK
+
+**[Handy Works](https://github.com/sumayaislamm/handy-works-public)**  
+A web development project focused on practical functionality and user experience.
+
+**AngloBanglo**  
+Building a modern business website using Next.js and TypeScript.
+
+**Canva-style Design Editor**  
+Developing an interactive canvas-based editor with React, TypeScript, and Konva.
+
+### CURRENT FOCUS
+
+`Full-Stack Engineering` · `AI & LLMs` · `Next.js` · `System Design` · `Open Source`
+
+### GITHUB
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumayaislamm&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumayaislamm&layout=compact&hide_border=true&theme=transparent" width="40%" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumayaislamm&theme=tokyo-night"/>
+  <img src="https://streak-stats.demolab.com?user=sumayaislamm&theme=transparent&hide_border=true" width="65%" />
 </p>
 
 ---
 
-# 🌟 Featured Projects
-
-https://github.com/sumayaislamm/handy-works-public
-
-
----
-
-# 🎯 2026 Goals
-
-- 🚀 Remote Software Engineer
-- 🤖 AI Engineer
-- 🌍 Open Source Contributor
-- 💼 Build impactful products
-- 📚 Keep learning every day
-
----
-
-# ☕ Beyond Coding
-
-- ✈️ Travelling
-- 📚 Book Lover
-- 🌙 Night Coder
-- 🧩 Problem Solver
-- 🍳 Cooking
-
----
-
-# 🌐 Connect
-
-- GitHub: https://github.com/sumayaislamm
-- LinkedIn: https://www.linkedin.com/in/sumayaislamm/
-- Email: sheikhsumaya622@gmail.com
-
----
-
-> **"Success is built one commit at a time."**
-
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sumayaislamm&style=for-the-badge"/>
+  <b>Building. Learning. Shipping.</b><br/>
+  <sub>One commit at a time.</sub>
 </p>
