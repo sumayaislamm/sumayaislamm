@@ -39,17 +39,6 @@ PostgreSQL · MongoDB · Prisma
 **Tools**  
 Git · GitHub · Postman · Figma
 
-### SELECTED WORK
-
-**[Handy Works](https://github.com/sumayaislamm/handy-works-public)**  
-A web development project focused on practical functionality and user experience.
-
-**AngloBanglo**  
-Building a modern business website using Next.js and TypeScript.
-
-**Canva-style Design Editor**  
-Developing an interactive canvas-based editor with React, TypeScript, and Konva.
-
 ### CURRENT FOCUS
 
 `Full-Stack Engineering` · `AI & LLMs` · `Next.js` · `System Design` · `Open Source`
